@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rakesh Borole
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning angular, nodejs
-- 💞️ I’m looking to collaborate on java
+- 💞️ I’m looking to collaborate on java and related technologies
 - 📫 How to reach me rakeshborole007@gmail.com
 
 <!---
